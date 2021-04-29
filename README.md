@@ -2,5 +2,5 @@
 
 Виправлення прикладу з лекції.  
 Треба запустити пакетний менеджер npm у папці з проєктом:  
-&nbsp;&nbsp;&nbsp;&nbsp;npm install  
+&nbsp;&nbsp;&nbsp;&nbsp;npm i node-modules  
 Так як усі модулі прив'язані локально
